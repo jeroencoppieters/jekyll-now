@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-(If you work @ newtec skip this part)
+(If you work @ Newtec skip this part)
 Some information about me! I'm boring and totally irresponsible. I have developed a strong hate against technology and i think computers should be banned. 
 Oh and i like lasagna.
 
