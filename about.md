@@ -12,4 +12,6 @@ Some information about me! I'm boring and totally irresponsible. I have develope
 Did I mention I like lasagna? Ooh and from time to time I can be ironic.
 ### Contact me
 
-[jcop@newtec.eu](mailto:jcop@newtec.eu)
+Please don't.
+
+But if you really need to contact me -> [jcop@newtec.eu](mailto:jcop@newtec.eu)
